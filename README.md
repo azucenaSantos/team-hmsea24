@@ -1,1 +1,2 @@
-# hello-world-sea24
+# team-hmsea24
+Primer repositorio hola-mundo para realizar pruebas.
